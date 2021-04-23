@@ -3,8 +3,8 @@ SystemVerilog implementation of RISC-V ISA for FPGA.
 
 ## content
 Now RV64I and part of RV64M are implemented.(Priviledged modes are not yet)
-src : SystemVerilog sources
-test : test codes
+- src  : SystemVerilog sources
+- test : test codes
 
 ## architecture
 For simplicity as the first project, this RISCV processor has single cycle architecture, and instruction memory and data memory are seperated.
